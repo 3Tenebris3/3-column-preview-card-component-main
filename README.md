@@ -16,7 +16,7 @@ Funcionalidades y tecnologías utilizadas
 HTML5: Estructuré el contenido de las tarjetas de vista previa.
 CSS3: Utilicé flexbox para organizar las tarjetas en tres columnas y añadí estilos para mejorar la apariencia visual.
 Vista previa del proyecto
-Puedes ver una vista previa en vivo del proyecto completado [aqui](URL_del_Enlace).
+Puedes ver una vista previa en vivo del proyecto completado [aqui](https://3tenebris3.github.io/3-column-preview-card-component-main/).
 
 Este proyecto fue desafiante y me permitió practicar mis habilidades en flexbox y diseño responsivo. ¡Espero que te guste!
 
